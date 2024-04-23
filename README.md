@@ -1,4 +1,4 @@
-REMEMBER THIS TOOLS THAT I HAVE PUT THEY ARE ONLY FOR EDUCATIONAL PURPOSES ONLY.
+REMEMBER THESE ARE ONLY FOR EDUCATIONAL PURPOSES ONLY.
 
 INSTALLATION:
 
@@ -12,4 +12,4 @@ git clone https://github.com/kali4lyf/PHISHING
 
 cd PHISHING
 
-bash zphisher.sh / bash socialphish.sh
+bash zphisher.sh / bash socialphish.sh / bash maxphisher.sh 
