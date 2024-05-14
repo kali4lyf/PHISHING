@@ -8,7 +8,7 @@ sudo apt-get upgrade -y
 
 sudo apt install git
 
-git clone https://github.com/kali4lyf/PHISHING
+git clone https://github.com/kali4lyf/PHISHING.git
 
 cd PHISHING
 
