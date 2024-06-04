@@ -1,22 +1,20 @@
-REMEMBER THESE TOOLS ARE ONLY FOR EDUCATIONAL PURPOSES ONLY.
+# PHISHING
 
-INSTALLATION:
+LETS DO THE INSTALLITON
 
-sudo apt-get update
+# INSTALLTION
 
-sudo apt-get upgrade -y
-
-sudo apt install git
-
+**Clone the repository**
+```
 git clone https://github.com/kali4lyf/PHISHING.git
-
 cd PHISHING
+```
+**Choose the type of script you want Run**
+```
+bash zphisher.sh
+bash maxphisher.sh
+bash socialphish.sh
+```
 
-bash zphisher.sh / bash socialphish.sh / bash maxphisher.sh 
-
-
-#FOLLOW ME ON:
-
-INSTAGRAM: @a.h.m.e.d.012_ OR @kali_4lyf
-
-TELEGRAM: https://t.me/kali_4lyf
+Usage Rules:
+THE TOOLS ARE TO BE USED LEGAL NOT ILLEGAL. FROM THERE I WISH ALL THE BEST...
