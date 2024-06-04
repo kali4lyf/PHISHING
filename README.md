@@ -16,5 +16,6 @@ bash maxphisher.sh
 bash socialphish.sh
 ```
 
-Usage Rules:
+**Usage Rules:**
+
 THE TOOLS ARE TO BE USED LEGAL NOT ILLEGAL. FROM THERE I WISH ALL THE BEST...
