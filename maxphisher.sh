@@ -27,9 +27,11 @@ if is_termux; then
     pkg install python
     pkg install python3-pip
     pip install lolcat
+    pkg install git
 else
     sudo apt update
     sudo apt upgrade -y
+    sudo apt install git
     sudo apt install lolcat -y
     sudo apt install python3-pip -y
 fi
