@@ -10,6 +10,7 @@ git clone https://github.com/kali4lyf/PHISHING.git
 cd PHISHING
 ```
 **Choose the type of script you want Run**
+
 **For Maxphisher in Linux do:**
 ```
 sudo maxphisher.sh
